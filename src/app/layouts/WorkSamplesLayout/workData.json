@@ -24,7 +24,7 @@
         "title":"This Personal Page",
         "description": "My Designs, Storybook, and Github.",
         "imageSrc":"/images/this_page.png",
-        "anchorURL":"/this_page"
+        "anchorURL":"/this-page"
 
     }
 ]
